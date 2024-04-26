@@ -85,5 +85,5 @@ The default path to calculate the cache key is `./pdm.lock`, you can change it b
   with:
     python-version: 3.9
     cache: true
-    cache-dependency-path: '**/pdm.lock'
+    cache-dependency-path: "**/pdm.lock"
 ```
